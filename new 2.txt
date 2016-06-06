@@ -1,0 +1,5 @@
+    A <b>luz</b> é uma onda eletromagnética. <br>
+
+    A incandescência geralmente está associada a <b>objetos quentes</b>, sendo necessárias <u>temperaturas que excedam</u> a 1000<sup>o</sup> graus Celsius.<br>
+    A luz pode ser medida pela unidade chamada <i>brilho</i>, medida em watt/cm<sup>2</sup><br/>
+   As plantas utilizam CO<sub>2</sub> para realizarem a fotossíntese.
